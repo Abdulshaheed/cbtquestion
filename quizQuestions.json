@@ -2,32 +2,261 @@
   "GST 101": [
     {
       "question": "What is the full meaning of GST?",
-      "options": ["General Studies", "Global Study Text", "Great School Training", "Government Sponsored Test"],
+      "options": ["General Studies", "Graduate School Training", "Government Scheme Training", "Global Student Test"],
       "correctAnswer": "General Studies"
     },
     {
-      "question": "Which of the following is a good study habit?",
-      "options": ["Procrastination", "Consistency", "Skipping lectures", "Last minute cramming"],
-      "correctAnswer": "Consistency"
+      "question": "GST courses are introduced in which level?",
+      "options": ["100 Level", "200 Level", "300 Level", "400 Level"],
+      "correctAnswer": "100 Level"
+    },
+    {
+      "question": "The major purpose of GST is to:",
+      "options": ["Promote general knowledge", "Replace departmental courses", "Increase student fees", "Teach advanced topics"],
+      "correctAnswer": "Promote general knowledge"
+    },
+    {
+      "question": "Which of these is a GST course?",
+      "options": ["Use of Library", "Advanced Physics", "Organic Chemistry", "Calculus"],
+      "correctAnswer": "Use of Library"
+    },
+    {
+      "question": "One key benefit of GST courses is:",
+      "options": ["Improved interdisciplinary knowledge", "Increased exam duration", "Reduced course load", "Eliminating faculty exams"],
+      "correctAnswer": "Improved interdisciplinary knowledge"
+    },
+    {
+      "question": "Who takes GST courses?",
+      "options": ["All students", "Only science students", "Only final year students", "Only arts students"],
+      "correctAnswer": "All students"
+    },
+    {
+      "question": "Which of the following is NOT a GST course?",
+      "options": ["Entrepreneurship", "Communication in English", "Linear Algebra", "Use of Library"],
+      "correctAnswer": "Linear Algebra"
+    },
+    {
+      "question": "GST is usually offered in how many units?",
+      "options": ["1 or 2 units", "5 units", "4 units", "10 units"],
+      "correctAnswer": "1 or 2 units"
+    },
+    {
+      "question": "The 'Use of English' GST course helps improve:",
+      "options": ["Academic communication", "Physical fitness", "Social behavior", "Religious knowledge"],
+      "correctAnswer": "Academic communication"
+    },
+    {
+      "question": "Which body oversees the development of GST in Nigerian universities?",
+      "options": ["NUC", "JAMB", "WAEC", "NECO"],
+      "correctAnswer": "NUC"
     }
   ],
   "CIT 101": [
     {
-      "question": "Which of these is an input device?",
-      "options": ["Monitor", "Mouse", "Speaker", "Printer"],
-      "correctAnswer": "Mouse"
+      "question": "Which of these is a computer input device?",
+      "options": ["Keyboard", "Monitor", "Speaker", "Printer"],
+      "correctAnswer": "Keyboard"
     },
     {
-      "question": "CPU stands for?",
-      "options": ["Central Process Unit", "Central Processing Unit", "Central Performance Unit", "Control Process Utility"],
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Computer Programming Unit", "Central Program Utility", "Control Power Unit"],
       "correctAnswer": "Central Processing Unit"
+    },
+    {
+      "question": "Which of these is considered computer software?",
+      "options": ["MS Word", "Motherboard", "RAM", "Hard Disk"],
+      "correctAnswer": "MS Word"
+    },
+    {
+      "question": "Binary language is composed of:",
+      "options": ["0 and 1", "1 and 2", "0 and 9", "A and B"],
+      "correctAnswer": "0 and 1"
+    },
+    {
+      "question": "Which device shows the result of processed data?",
+      "options": ["Monitor", "Mouse", "Scanner", "Flash drive"],
+      "correctAnswer": "Monitor"
+    },
+    {
+      "question": "What is the primary function of RAM?",
+      "options": ["Temporary memory", "Permanent memory", "File transfer", "Power supply"],
+      "correctAnswer": "Temporary memory"
+    },
+    {
+      "question": "Which of the following is NOT an operating system?",
+      "options": ["Windows", "Linux", "Oracle", "MacOS"],
+      "correctAnswer": "Oracle"
+    },
+    {
+      "question": "Which part of the computer holds data permanently?",
+      "options": ["Hard Disk", "RAM", "ROM", "Cache"],
+      "correctAnswer": "Hard Disk"
+    },
+    {
+      "question": "The brain of the computer is the:",
+      "options": ["CPU", "Monitor", "Mouse", "Printer"],
+      "correctAnswer": "CPU"
+    },
+    {
+      "question": "Software that controls hardware is called:",
+      "options": ["Operating System", "Spreadsheet", "Word Processor", "Application"],
+      "correctAnswer": "Operating System"
+    }
+  ],
+  "BIO 101": [
+    {
+      "question": "What is the basic unit of life?",
+      "options": ["Cell", "Tissue", "Organ", "Organ system"],
+      "correctAnswer": "Cell"
+    },
+    {
+      "question": "Which organelle controls the activities of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi body"],
+      "correctAnswer": "Nucleus"
+    },
+    {
+      "question": "Photosynthesis takes place in the:",
+      "options": ["Chloroplast", "Mitochondria", "Ribosome", "Nucleus"],
+      "correctAnswer": "Chloroplast"
+    },
+    {
+      "question": "Which kingdom do bacteria belong to?",
+      "options": ["Monera", "Plantae", "Fungi", "Protista"],
+      "correctAnswer": "Monera"
+    },
+    {
+      "question": "DNA stands for:",
+      "options": ["Deoxyribonucleic Acid", "Deoxyriboprotein Acid", "Dual Nuclear Acid", "None of the above"],
+      "correctAnswer": "Deoxyribonucleic Acid"
+    },
+    {
+      "question": "Organisms that make their own food are called:",
+      "options": ["Autotrophs", "Heterotrophs", "Saprophytes", "Parasites"],
+      "correctAnswer": "Autotrophs"
+    },
+    {
+      "question": "Which of these is not a vertebrate?",
+      "options": ["Insect", "Fish", "Bird", "Mammal"],
+      "correctAnswer": "Insect"
+    },
+    {
+      "question": "What is the function of mitochondria?",
+      "options": ["Energy production", "Protein synthesis", "Cell division", "Water storage"],
+      "correctAnswer": "Energy production"
+    },
+    {
+      "question": "The sum total of all chemical activities in the body is called:",
+      "options": ["Metabolism", "Digestion", "Respiration", "Excretion"],
+      "correctAnswer": "Metabolism"
+    },
+    {
+      "question": "Which of the following is used for movement in Amoeba?",
+      "options": ["Pseudopodia", "Cilia", "Flagella", "Legs"],
+      "correctAnswer": "Pseudopodia"
     }
   ],
   "PHY 101": [
     {
-      "question": "What is the unit of Force?",
-      "options": ["Newton", "Joule", "Pascal", "Watt"],
-      "correctAnswer": "Newton"
+      "question": "What is the SI unit of pressure?",
+      "options": ["Pascal", "Joule", "Newton", "Watt"],
+      "correctAnswer": "Pascal"
+    },
+    {
+      "question": "Newton’s First Law is also known as the law of:",
+      "options": ["Inertia", "Force", "Action and Reaction", "Gravity"],
+      "correctAnswer": "Inertia"
+    },
+    {
+      "question": "Speed is defined as:",
+      "options": ["Distance/Time", "Time/Distance", "Distance × Time", "Mass × Acceleration"],
+      "correctAnswer": "Distance/Time"
+    },
+    {
+      "question": "Which of these is a vector quantity?",
+      "options": ["Force", "Speed", "Distance", "Energy"],
+      "correctAnswer": "Force"
+    },
+    {
+      "question": "The acceleration due to gravity is:",
+      "options": ["9.8 m/s²", "10 m/s²", "8.5 m/s²", "12 m/s²"],
+      "correctAnswer": "9.8 m/s²"
+    },
+    {
+      "question": "Work is done when:",
+      "options": ["A force moves an object", "An object is stationary", "Heat is transferred", "Time is wasted"],
+      "correctAnswer": "A force moves an object"
+    },
+    {
+      "question": "Power is the rate of doing:",
+      "options": ["Work", "Speed", "Distance", "Acceleration"],
+      "correctAnswer": "Work"
+    },
+    {
+      "question": "The SI unit of work is:",
+      "options": ["Joule", "Watt", "Newton", "Meter"],
+      "correctAnswer": "Joule"
+    },
+    {
+      "question": "Which instrument measures current?",
+      "options": ["Ammeter", "Voltmeter", "Barometer", "Thermometer"],
+      "correctAnswer": "Ammeter"
+    },
+    {
+      "question": "Which of the following is a renewable source of energy?",
+      "options": ["Solar", "Coal", "Petrol", "Diesel"],
+      "correctAnswer": "Solar"
+    }
+  ],
+  "GST 102": [
+    {
+      "question": "Which type of communication uses body language?",
+      "options": ["Non-verbal", "Oral", "Written", "Group"],
+      "correctAnswer": "Non-verbal"
+    },
+    {
+      "question": "Effective communication requires:",
+      "options": ["Feedback", "Noise", "Interruptions", "Shouting"],
+      "correctAnswer": "Feedback"
+    },
+    {
+      "question": "A good listener should:",
+      "options": ["Maintain eye contact", "Look away", "Interrupt frequently", "Be distracted"],
+      "correctAnswer": "Maintain eye contact"
+    },
+    {
+      "question": "A speech without preparation is called:",
+      "options": ["Impromptu", "Formal", "Debate", "Seminar"],
+      "correctAnswer": "Impromptu"
+    },
+    {
+      "question": "Which is NOT a barrier to communication?",
+      "options": ["Clarity", "Noise", "Language difference", "Distraction"],
+      "correctAnswer": "Clarity"
+    },
+    {
+      "question": "Which is a medium of written communication?",
+      "options": ["Email", "Face to face", "Radio", "Gesture"],
+      "correctAnswer": "Email"
+    },
+    {
+      "question": "Formal communication often follows:",
+      "options": ["Official channels", "Personal opinion", "Gossip", "Emotions"],
+      "correctAnswer": "Official channels"
+    },
+    {
+      "question": "Encoding in communication means:",
+      "options": ["Forming the message", "Decoding the message", "Interrupting the sender", "Ignoring feedback"],
+      "correctAnswer": "Forming the message"
+    },
+    {
+      "question": "Which is a non-verbal cue?",
+      "options": ["Nodding", "Talking", "Writing", "Typing"],
+      "correctAnswer": "Nodding"
+    },
+    {
+      "question": "Oral presentation must be:",
+      "options": ["Clear and audible", "Fast and brief", "Mumbled", "Unstructured"],
+      "correctAnswer": "Clear and audible"
     }
   ]
 }
